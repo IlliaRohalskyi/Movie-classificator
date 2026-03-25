@@ -95,7 +95,3 @@ Classical TF-IDF + linear models are very strong on this dataset and often outpe
 ## License
 
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
-
----
-
-If you are a recruiter, instructor, or teammate reviewing this repository: the notebook is designed to be presentation-friendly and reproducible with a single `uv sync`.
